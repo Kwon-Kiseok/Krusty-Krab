@@ -6,3 +6,9 @@
 //	월급 : 400
 // 직원 : 공규 김재휘
 //	월급 : 320
+
+typedef struct
+{
+	char* name;
+	int salary;
+}Employee;
